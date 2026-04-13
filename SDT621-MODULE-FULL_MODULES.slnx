@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CTUAPI/CTUAPI.csproj" />
+  <Project Path="FirstExample/FirstExample.csproj" />
+  <Project Path="MONDAY_ACTIVITIES/MONDAY_ACTIVITIES.csproj" />
+  <Project Path="STUDENTWEBSITE/STUDENTWEBSITE.csproj" />
+</Solution>
