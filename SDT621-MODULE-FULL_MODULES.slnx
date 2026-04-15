@@ -1,6 +1,8 @@
 <Solution>
+  <Project Path="Class Activity/Class Activity.csproj" Id="dc066305-c6df-4f2d-b419-c005717c7639" />
   <Project Path="CTUAPI/CTUAPI.csproj" />
   <Project Path="FirstExample/FirstExample.csproj" />
   <Project Path="MONDAY_ACTIVITIES/MONDAY_ACTIVITIES.csproj" />
+  <Project Path="Sign in/Windows Form.csproj" Id="899c9c33-e44a-461c-bfd7-5beba311d657" />
   <Project Path="STUDENTWEBSITE/STUDENTWEBSITE.csproj" />
 </Solution>
